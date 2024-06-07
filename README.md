@@ -6,7 +6,23 @@ Task 1-list= Lists are the simplest containers that are an integral part of the 
 Task 1-numbers= In Python, “Numbers” is a category that encompasses different types of numeric data. Python supports various types of numbers, including integers, floating-point numbers, and complex numbers. 
 
 Task 1-operators= In Python programming, Operators in general are used to perform operations on values and variables.There are various operators in python like Arithmetic, Logical, Assignment, Comparison, Membership, Identity, bitwise etc. Python Arithmetic operators are used to perform basic mathematical operations like addition, subtraction, multiplication, and division.
+
 Task 1-set= A Set in Python programming is an unordered collection data type that is iterable, mutable and has no duplicate elements. Set are represented by { } (values enclosed in curly braces).
+
 Task 1-string= A String is a data structure in Python Programming that represents a sequence of characters. It is an immutable data type. Python String are used widely in many different applications, such as storing and manipulating text data, representing names, addresses, and other types of data that can be represented as text.
+
 Task 1-tuple= Python Tuple is a collection of objects separated by commas. In some ways, a tuple is similar to a Python list in terms of indexing, nested objects, and repetition but the main difference between both is Python tuple is immutable, unlike the Python list which is mutable.To create a tuple, () operator is used.
-Task 1-variable declaration rule=     
+
+Task 1-variable declaration rule= A Python variable name must start with a letter or the underscore character. A Python variable name cannot start with a number.A Python variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ ).Variable in Python names are case-sensitive (name, Name, and NAME are three different variables). The reserved words(keywords) in Python cannot be used to name the variable in Python. 
+
+Task 2-for loop= A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
+
+Task 2-if elif= The elif keyword is pythons way of saying "if the previous conditions were not true, then try this condition".
+
+Task 2-if else statement= In python programming, the if statement is a conditional statement. It is used to execute a block of code only when a specific condition is met. An if statement can have an optional else clause. The else statement executes if the condition in the if statement evaluates to False.
+
+Task 2- if stmt= In Python the if statement is used for conditional execution or branching. An if statement is one of the control structures. (A control structure controls the flow of the program.)
+
+Task 2-while loop= Python While Loop is used to execute a block of statements repeatedly until a given condition is satisfied. When the condition becomes false, the line immediately after the loop in the program is executed.
+
+Task 3-break statement=
