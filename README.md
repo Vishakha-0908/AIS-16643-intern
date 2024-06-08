@@ -27,4 +27,14 @@ Task 2-while loop= Python While Loop is used to execute a block of statements re
 
 Task 3-break statement= Break statement in Python is used to bring the control out of the loop when some external condition is triggered. break statement is put inside the loop body (generally after if condition).  
 
+Task 3-continue statement= Python Continue Statement skips the execution of the program block after the continue statement and forces the control to start the next iteration.
+
+Task 3-pass statement= Python Continue Statement skips the execution of the program block after the continue statement and forces the control to start the next iteration.
+
+Task 3-statistical user defined function= We can find mean, mode, median, standard deviation etc by using statistical user defined function.
+
+Task 3-logical user defined function= All the functions that are written by any of us come under the category of user-defined functions. Below are the steps for writing user-defined functions in Python. In Python, a def keyword is used to declare user-defined functions. An indented block of statements follows the function name and arguments which contains the body of the function. 
+
+Task 4-Numpy= Numpy is a general-purpose array-processing package. It provides a high-performance multidimensional array object, and tools for working with these arrays. It is the fundamental package for scientific computing with Python.
+
 
