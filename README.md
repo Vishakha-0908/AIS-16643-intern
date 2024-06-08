@@ -25,4 +25,6 @@ Task 2- if stmt= In Python the if statement is used for conditional execution or
 
 Task 2-while loop= Python While Loop is used to execute a block of statements repeatedly until a given condition is satisfied. When the condition becomes false, the line immediately after the loop in the program is executed.
 
-Task 3-break statement=
+Task 3-break statement= Break statement in Python is used to bring the control out of the loop when some external condition is triggered. break statement is put inside the loop body (generally after if condition).  
+
+
