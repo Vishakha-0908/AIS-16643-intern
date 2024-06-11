@@ -37,4 +37,4 @@ Task 3-logical user defined function= All the functions that are written by any 
 
 Task 4-Numpy= Numpy is a general-purpose array-processing package. It provides a high-performance multidimensional array object, and tools for working with these arrays. It is the fundamental package for scientific computing with Python.
 
-
+Task 5-pandas= Pandas is a powerful and open-source Python library. The Pandas library is used for data manipulation and analysis. Pandas consist of data structures and functions to perform efficient operations on data.
